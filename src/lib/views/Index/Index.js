@@ -1,8 +1,8 @@
 // import logo from "../../components/Logo/logo.svg";
 
-import Header from "../../components/Header/Header";
-import Content from "./Content";
-import Footer from "../../components/Footer/Footer";
+import Header from "../../components/Header/Header.js";
+import Content from "./Content.js";
+import Footer from "../../components/Footer/Footer.js";
 
 const Index = () => {
 	return (
