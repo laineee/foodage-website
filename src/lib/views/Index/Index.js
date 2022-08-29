@@ -1,12 +1,12 @@
 // import logo from "../../components/Logo/logo.svg";
 
-import Header from "../../components/Header/Header.js";
-import Content from "./Content.js";
-import Footer from "../../components/Footer/Footer.js";
+import Header from "../../components/Header/Header";
+import Content from "./Content";
+import Footer from "../../components/Footer/Footer";
 
 const Index = () => {
 	return (
-		<div class="main-container">
+		<div className="main-container">
 			<Header />
 			<Content />
 			<Footer />
